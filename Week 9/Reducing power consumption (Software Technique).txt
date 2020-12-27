@@ -1,0 +1,7 @@
+Methods:
+
+1- Setting unused GPIO pins as output
+2- Turning off ADC
+3- Turning off analog comparator
+4- Sleeping
+5- Sleeping with BOD disabled

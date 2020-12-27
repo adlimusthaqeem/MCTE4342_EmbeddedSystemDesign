@@ -1,0 +1,9 @@
+Design a power-efficient embedded system for two-channel RF key fob.
+When the red button is pressed, call a function TransmitChannel1()
+When the green button is pressed, call a function TransmitChannel2()
+Assume that these functions have already been written.
+
+Tip: 
+Sleep to conserve power!
+You can use external interrupts int0 (red button) and int1 (green 
+button) to wake up the CPU.

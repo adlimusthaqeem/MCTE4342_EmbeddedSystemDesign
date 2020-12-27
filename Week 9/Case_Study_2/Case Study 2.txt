@@ -1,0 +1,8 @@
+Design a power-efficient embedded system for a 20-key IR remote control.
+When any button has been pressed, call a function Transmit().
+Assume that this function has already been written.
+Buttons are connected to Port B (0 to 5), Port C (0 to 5), Port D (0 to 7)
+
+Tip: 
+Sleep to conserve power!
+You can use pin change interrupts to wake up the CPU.
