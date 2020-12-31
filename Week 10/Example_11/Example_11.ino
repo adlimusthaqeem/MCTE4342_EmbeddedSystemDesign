@@ -1,3 +1,5 @@
+#include<Servo.h>
+
 void setup()
 {
   Servo motor1('B', 0, 20000);
